@@ -1,16 +1,15 @@
-### Hi there 👋
+# Welcome to my Github profile! ✨
 
-<!--
-**chayamushka/chayamushka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! My name is _Chaya Lasry_ and  I am a recent graduate of the Computer Science program at the Hebrew University of Jerusalem. 
+I am excited to start my career as a software developer and contribute to meaningful projects. 🚀
 
-Here are some ideas to get you started:
+On my Github profile, you will find a collection of my personal projects and coursework, including several projects related to machine learning and data science. My interests in these fields have led me to take coursework in areas such as NLP, Applied Competitive Lab in Data Science, Neural Learning and I am always looking to learn more and expand my skillset. 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to contact me if you have any questions or want to collaborate on a project. 🔍 <br>
+You can reach me at [My Email](mailto:chaya.m.lasry@gmail.com) or [My LinkedIn](https://www.linkedin.com/in/-chaya-lasry-/). 📧
+
+Thanks for stopping by. 🙏
+
+Sincerely, <br>
+Chaya Lasry 💼
+
